@@ -18,5 +18,4 @@
 <div style="display: inline_block" align="center">
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  <img align="center" alt="Sanchez-pic" height="160" src="https://images4.alphacoders.com/651/thumb-350-651318.png">
 </div>
