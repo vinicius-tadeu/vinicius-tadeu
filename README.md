@@ -3,6 +3,8 @@
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=San-chez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San-chez&layout=default&langs_count=7&theme=dark&custom_title=Linguagens"></br>
+
+  ##
   <img src="https://media4.giphy.com/media/cODrlNTkGnZGVtVagd/200.gif?cid=5a38a5a2ctkalzv9exw0u0m4yyttcpbs6eazwhtxkewhy2oe&amp;rid=200.gif&amp;ct=g" style="height:170px;width:300px"/>
 </div>
 
