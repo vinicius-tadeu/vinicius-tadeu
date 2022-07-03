@@ -9,7 +9,7 @@
 <div style="display: inline_block;" align="center">
   
   ##
-  <a href="https://github.com/San-chez">
+  <a href="https://github.com/vinicius-tadeu">
   <img align="center" alt="Vinicius-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vinicius-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vinicius-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
