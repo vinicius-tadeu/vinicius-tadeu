@@ -31,6 +31,6 @@
 
 <div style="display: inline_block" align="center">
   
-    ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
 </td></tr></table>
