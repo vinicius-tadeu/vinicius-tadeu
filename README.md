@@ -3,7 +3,7 @@
   <img src="https://spotlights-feed.github.com/spotlights/game-off-2021/game-off-2021.gif" style="height:315px"/>
   
   ##
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicius-tadeu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicius-tadeu&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="150em"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-tadeu&layout=compact&langs_count=10&theme=dark&custom_title=Linguagens">
   </div>
 <div style="display: inline_block;" align="center">
