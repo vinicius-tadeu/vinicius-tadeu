@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Vinícius 👋</h1>
 
 <p align="center">
-  Desenvolvedor focado em criar produtos digitais, automações e interfaces modernas.
+  Construo SaaS, automações e interfaces modernas com foco em produto, experiência e execução.
 </p>
 
 <p align="center">
@@ -18,16 +18,25 @@
 
 <div align="center">
   <a href="https://github.com/vinicius-tadeu">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=vinicius-tadeu&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+    <img
+      height="180em"
+      src="https://github-readme-stats-fast.vercel.app/api?username=vinicius-tadeu&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d&bg_color=0d1117&ring_color=58a6ff"
+    />
   </a>
   <a href="https://github.com/vinicius-tadeu">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vinicius-tadeu&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+    <img
+      height="180em"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vinicius-tadeu&layout=compact&langs_count=8&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d&bg_color=0d1117"
+    />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/vinicius-tadeu">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=vinicius-tadeu&theme=transparent&hide_border=true" />
+    <img
+      height="180em"
+      src="https://github-readme-stats-fast.vercel.app/api/streak/?username=vinicius-tadeu&theme=tokyonight&hide_border=false"
+    />
   </a>
 </div>
 
@@ -41,10 +50,10 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor apaixonado por transformar ideias em produtos reais
-- 🎯 Focado em SaaS, automações, performance e experiência do usuário
-- 🧠 Sempre buscando evoluir em arquitetura, design e escalabilidade
-- ⚡ Curto criar soluções práticas, bonitas e com cara de produto premium
+- Gosto de tirar ideia do papel e transformar em produto de verdade
+- Trabalho muito com SaaS, automações e interfaces com cara de produto premium
+- Tenho foco em experiência do usuário, performance e estrutura bem feita
+- Curto construir, testar, ajustar e evoluir até ficar redondo
 
 <br>
 
@@ -69,14 +78,13 @@
 
 <br>
 
-## 📌 Atualmente
+## 📌 No momento
 
-```python
-class Vinicius:
-    def __init__(self):
-        self.role = "Full Stack Developer"
-        self.focus = ["SaaS", "Automação", "UX/UI", "Escalabilidade"]
-        self.status = "Building cool things 🚀"
+```ts
+const vinicius = {
+  cargo: "Full Stack Developer",
+  foco: ["SaaS", "Automações", "UX/UI", "Escalabilidade"],
+  status: "Construindo projetos que saem do papel",
+};
 
-me = Vinicius()
-print(me.status)
+console.log(vinicius.status);
