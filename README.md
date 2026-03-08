@@ -4,7 +4,7 @@
   
   ##
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicius-tadeu&show_icons=true&theme=dark"/>
-  <img height="150em"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-tadeu&layout=compact&langs_count=10&theme=dark&custom_title=Linguagens">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-tadeu&layout=compact&langs_count=10&theme=dark&custom_title=Linguagens"/>
   </div>
 <div style="display: inline_block;" align="center">
   
@@ -34,3 +34,4 @@
   ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 </div>
 </td></tr></table>
+
